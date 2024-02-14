@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361917979738",
+    "project_id": "facebookc-814b2",
+    "storage_bucket": "facebookc-814b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361917979738:android:594ef91827d45d29c70c63",
+        "android_client_info": {
+          "package_name": "com.example.facebookc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNtc2zvEGB02-NS-mpxCvhPtyAH9z8UYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
